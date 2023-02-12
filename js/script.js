@@ -1,4 +1,5 @@
 // start logic
+// nav and icons
 
 let menu = document.querySelector('#menu-bar');
 let nav = document.querySelector('.nav');
